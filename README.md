@@ -79,7 +79,7 @@ Run the manager with:
 
 Ensure that your `servers.json` contains the desired configuration.
 
-If you have trouble running the program, try to give the file permissions
+If you have trouble running the program, try to give permissions to the file
 
 ```bash
 sudo chmod +x ./server_manager
