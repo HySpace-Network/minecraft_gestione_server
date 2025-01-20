@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Server1",
+        "ram": 2048,
+        "dir": "/home/minecraft/server1",
+        "jar": "server.jar",
+        "javaArgs": "-Dfile.encoding=UTF-8 -XX:+UseG1GC"
+    },
+    {
+        "name": "Server2",
+        "ram": 4096,
+        "dir": "/home/minecraft/server2",
+        "jar": "server.jar",
+        "javaArgs": ""
+    }
+]  
